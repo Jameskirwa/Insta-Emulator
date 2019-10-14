@@ -1,0 +1,1 @@
+web: gunicorn Ista-Emulator.wsgi --log-file -
