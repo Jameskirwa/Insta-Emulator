@@ -1,6 +1,8 @@
 **# Instaclone
 **
+
 ## As users you can :
+
 * Login and post your favourites photos                             l
 * View different photos that interest you.
 * You can leave a comment on the photo.
@@ -17,6 +19,7 @@
 To access the Code behind this site, you will need to:
 
 1. Clone this repo:
+
   ```bash
 https://github.com/Jameskirwa/instaclone  ```
 2. Move to the folder and install requirements
@@ -34,16 +37,20 @@ https://github.com/Jameskirwa/instaclone  ```
   ```
 
 ## Technologies Used
+
 * python
 * Django
 * Jinja
 * HTML
 * Bootstrap
 * css
+
 ## Known Bugs.
+
 * There are currently no known bugs. If you experience any feel free to open an issue
 
 ### Support and contact details
+
 If you have any queries regarding the my site, Please feel free to
 contact on [gmail](mailto://jameskirwa34@gmail.com) and we will be happy
 to look into your query
