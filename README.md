@@ -1,7 +1,6 @@
-**# Instaclone
-**
+# Insta-Imulator
 
-## As users you can :
+## As users you can
 
 * Login and post your favourites photos                             l
 * View different photos that interest you.
@@ -12,7 +11,6 @@
 
 1. Open the website and browse the images.
 2. If you see an image that interests you you can click on it to view it.
-
 
 ## Development setup
 
@@ -45,7 +43,7 @@ https://github.com/Jameskirwa/instaclone  ```
 * Bootstrap
 * css
 
-## Known Bugs.
+## Known Bugs
 
 * There are currently no known bugs. If you experience any feel free to open an issue
 
